@@ -1,5 +1,5 @@
 # Ex03 Time Table
-## Date:
+## Date:27/03/24
 
 ## AIM
 To write a html webpage page to display your slot timetable.
@@ -32,7 +32,7 @@ Execute the program using runserver command.
 </head>
 <body>
     <center>
-        <img src="logo.png" height="100">
+        <img src="C:\Users\admin\slot\logo.png" height="100">
         <h3>SLOT TIME TABLE-YOGESH.V(212223230250)</h3>
         <table align="center" border="6" cellspacing="3" cellpadding="7" width="540">
             <tr bgcolor="yellow">
@@ -46,7 +46,7 @@ Execute the program using runserver command.
             <tr bgcolor="cyan">
                 <th bgcolor="yellow">8-10</th>
                 <td bgcolor="lightpink" colspan="3" align="center">FREE SLOT</td>
-                <td bgcolor="lightgreen">PHY</td>
+                <td bgcolor="lightgreen">DS</td>
                 <td bgcolor="lightblue">CHE</td>
             </tr> 
             <tr bgcolor="cyan">
@@ -82,27 +82,27 @@ Execute the program using runserver command.
             </tr>
             <tr>
                 <th>2</th>
-                <th>19AI414</th>
+                <th>19EN612</th>
                 <td>German Basic(GER)</td>
             </tr>
             <tr>
                 <th>3</th>
-                <th>19AI414</th>
-                <td>Physics For Information Technology (PHY)</td>
+                <th>19AI408</th>
+                <td>Data Structures</td>
             </tr>
             <tr>
                 <th>4</th>
-                <th>19AI414</th>
+                <th>19CY205</th>
                 <td>Principle Of Chemistry In Engineering(CHE)</td>
             </tr>
             <tr>
                 <th>5</th>
-                <th>19AI414</th>
+                <th>19MA201</th>
                 <td>Calculus And Matrix Algebra(MAT)</td>
             </tr>
             <tr>
                 <th>6</th>
-                <th>19AI414</th>
+                <th>19EY701</th>
                 <td>Soft Skill(SS)</td>
             </tr>
         </table>
@@ -111,7 +111,7 @@ Execute the program using runserver command.
 </html>
 ```
 ## OUTPUT
-![alt text](<WhatsApp Image 2024-03-26 at 11.20.02_ff8d35a5.jpg>)
+![alt text](<WhatsApp Image 2024-03-27 at 15.51.55_00ad4263.jpg>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
